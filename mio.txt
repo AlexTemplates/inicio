@@ -10,3 +10,4 @@ Leer
 Escribir
 Estudiar
 Hacer aplicaciones
+que paso con las modificaciones que yo hice
